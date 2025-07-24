@@ -62,7 +62,7 @@
     "bot1": "40",
     "bot2": "E0",
     "bot3": "90",
-    "bot4": "18"
+    "bot4": "18",
     "bodyScanPatterns":
     "DC 52 39 BD 27 C1 8B 3C C0 D0 F8 B9",
     "63 71 B0 BD 90 98 74 BB",
